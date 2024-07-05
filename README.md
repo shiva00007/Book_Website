@@ -26,7 +26,7 @@ Follow these steps to set up the project locally on your machine.
 Running the Application:
 Start the development server:
 ```bash
-localhost/3000:
+localhost:3000
 ```
 ![preview img](/preview.png)
 
